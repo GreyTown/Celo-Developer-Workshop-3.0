@@ -136,10 +136,11 @@ View the [Developer Code Examples page](https://docs.celo.org/developer#quicksta
   -  [Celo Terminal](https://github.com/zviadm/celoterminal/)
 
 
-#### Community
+#### Community https://github.com/GreyTown/kaksv---Celo-Developer-Workshop-3.0
 
 -   Join our [Discord](https://chat.celo.org/)
 -   [Discourse Forum](https://forum.celo.org/)
+-   
 
 
 
